@@ -1,0 +1,11 @@
+{
+  "name": "demo-jwt",
+  "version": "1.0.0",
+  "description": "Exemple en classe 5D4 A23 -JWT",
+  "main": "serveur.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandre Girard",
+  "license": "ISC"
+}
