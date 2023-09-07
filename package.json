@@ -4,7 +4,8 @@
   "description": "Exemple en classe 5D4 A23 -JWT",
   "main": "serveur.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "server.js",
+    "dev": "nodemon serveur.js --inspect"
   },
   "author": "Alexandre Girard",
   "license": "ISC"
