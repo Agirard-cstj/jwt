@@ -17,6 +17,7 @@ class LimitRoutes{
     }
 
     rateLimit(req,res){
+        console.log(req.ip);
         res.status(200).json(req.rateLimit);
     }
 
